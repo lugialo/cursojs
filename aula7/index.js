@@ -7,5 +7,18 @@
 //Não é possível modificar o valor de uma constante.
 //NÃO UTILIZE VAR, UTILIZE CONST.
 
-const nome = 'João';
-console.log(nome);
+
+// + - * /
+// String - Text | Number = Número
+
+
+const primeiroNumero = 5; // Number
+const segundoNumero = 10;
+const resultado = primeiroNumero * segundoNumero;
+const resultadoDuplicado = resultado * 2;
+let resultadoTriplicado = resultado * 3;
+resultadoTriplicado = resultadoTriplicado + 5;
+
+console.log(resultado);
+
+console.log(typeof(primeiroNumero));
