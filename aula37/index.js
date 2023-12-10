@@ -3,6 +3,7 @@ const nome = 'Luiz Otávio';
 
 for (let valor of nome) {
     console.log(valor);
+    
 }
 
 // For clássico - Geralmente com iteráveis (array ou string)
