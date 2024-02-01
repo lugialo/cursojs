@@ -6,6 +6,7 @@
 //Case-sensitive
 //Não é possível redeclarar variáveis com let
 //NÃO UTILIZE VAR, UTILIZE LET.
+
 let nomeCliente = 'Luiz';
 let nomecliente = 'Otávio';
 
