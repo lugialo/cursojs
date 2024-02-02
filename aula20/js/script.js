@@ -5,6 +5,7 @@ function meuEscopo () {
     // form.onsubmit = function(evento) {
     //     evento.preventDefault(); // O prevent default serve para prevenir o evento que aconteceria, no caso do formulário seria o submit do mesmo.
     //     alert(1);
+    
     //     console.log('Foi enviado');
     // };
 
