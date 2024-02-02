@@ -38,6 +38,7 @@
 //         2
 //       )} (Obesidade grau 2)`;
 //     } else if (resultado > 40) {
+  
 //       divResultado.innerHTML = `<p> Seu IMC é ${resultado.toFixed(
 //         2
 //       )} (Obesidade grau 3)`;
