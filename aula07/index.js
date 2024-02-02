@@ -7,7 +7,6 @@
 //Não é possível modificar o valor de uma constante.
 //NÃO UTILIZE VAR, UTILIZE CONST.
 
-
 // + - * /
 // String - Text | Number = Número
 
