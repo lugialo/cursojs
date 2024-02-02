@@ -8,7 +8,7 @@ console.log(typeof null);
 console.log(num1.toString(2)); // Representação binária (2)
 console.log(num1.toFixed(2)); // Arredondar casas decimais
 
-console.log(Number.isInteger(num2)); // No caso num2 é 2.5, então não é um número inteiro.
+console.log(Number.isInteger(num2));  // No caso num2 é 2.5, então não é um número inteiro.
 let temp = num1 * 'Ola';
 console.log(Number.isNaN(temp));
 
