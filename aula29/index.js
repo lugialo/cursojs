@@ -47,5 +47,4 @@ console.log(diaSemana,diaSemanaTexto);
 // } else {
 //     diaSemanaTexto = '';
 // }
-
 // console.log(diaSemanaTexto);
