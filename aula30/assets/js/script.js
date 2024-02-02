@@ -115,5 +115,4 @@ function criaData(data) {
         ` ${zeroAEsquerda(data.getHours())}:${zeroAEsquerda(data.getMinutes())}`
     )
 }
-
 time.innerHTML = criaData(data);
