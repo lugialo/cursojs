@@ -4,7 +4,6 @@ const nivelUsuario = pontuacaoUsuario >= 1000 ? 'Usuário VIP' : 'Usuário norma
 
 console.log(nivelUsuario);
 
-
 // if (pontuacaoUsuario >= 100) {
 //     console.log('Usuário VIP!');
 // } else {
