@@ -18,7 +18,7 @@
 // const pessoa2 = criaPessoa('Emanuele', 'Silva', 26);
 // const pessoa3 = criaPessoa('Gabriel', 'Antonin', 23);
 
-// console.log(pessoa2.nome)
+//console.log(pessoa2.nome)
 
 const pessoa1 = {
     nome: 'Luiz',
