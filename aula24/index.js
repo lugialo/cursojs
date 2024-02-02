@@ -7,6 +7,7 @@ Entre 18 - 23 - Boa noite
 //If pode ser usado sozinho
 //Sempre que utilizo a palavra else, preciso de um if antes.
 //Posso ter vários else ifs na checagem
+
 //Porém apenas um else.
 
 const hora = 0;
