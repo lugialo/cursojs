@@ -18,7 +18,6 @@
 //         console.log(nome, nome2);
 //     }
 // }
-
 function falaOi (oi) {
     console.log(`${oi} amigo`);
 }
