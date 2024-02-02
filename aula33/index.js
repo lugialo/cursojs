@@ -9,5 +9,4 @@ const pessoa = {
 };
 
 const { nome, endereco: {rua, numero} } = pessoa;
-
 console.log(nome, rua, numero);
