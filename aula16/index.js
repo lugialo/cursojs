@@ -16,7 +16,7 @@ array = 'Legal'; // Assignment to constant variable.
 
 console.log(alunos);
 
-console.log(alunos instanceof Array); // Para descobrir se algo é um array
+console.log(alunos instanceof Array); //Para descobrir se algo é um array
 
 //console.log(alunos.slice(0, -2));
 //delete alunos[1] // Fazendo desse jeito, o índice também será removido.
