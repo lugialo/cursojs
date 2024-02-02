@@ -8,4 +8,5 @@ Operadores de comparação
 === igualdade estrita (valor e tipo)
 != diferente ********************
 !== diferente estrito (valor e tipo)
+
 */
