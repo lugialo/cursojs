@@ -20,7 +20,7 @@ console.log(umaString.search(/x/));
 console.log(umaString.replace('O', 'Outro'));
 console.log(umaString.replace(/r/g, '#'));
 console.log(umaString.length);
-console.log(umaString.slice(2, 6)); //Também podem ser colocados números negativos.
+console.log(umaString.slice(2, 6));  //Também podem ser colocados números negativos.
 
 console.log(umaString.slice(-5, -1));
 console.log(umaString.substring(umaString.length - 5, umaString.length - 1));
