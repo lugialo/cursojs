@@ -5,6 +5,7 @@ const elementos = [
     {tag: 'section', texto: 'Frase 4'}
 ]
 
+
 const texto = document.querySelector('.container');
 const div = document.createElement('div');
 
