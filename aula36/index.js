@@ -11,6 +11,7 @@ for (let chave in pessoa) {
     console.log(chave, pessoa[chave]);
 }
 
+
 // const frutas = ['Pera', 'Maçã', 'Uva'];
 
 // for (let index in frutas){
