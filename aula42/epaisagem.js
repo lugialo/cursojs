@@ -22,4 +22,5 @@
 
 // const ePaisagem = (largura, altura) => largura > altura; 4° jeito, arrow function
 
+
 ePaisagem(6000, 600)
