@@ -13,7 +13,6 @@
 //     }
 //     console.log(!isNaN(numero))
 
-
 // }
 
 function fizzBuzz(numero) {
