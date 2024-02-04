@@ -14,7 +14,6 @@ function retornaHora(data) {
         hour12: false
     })
 }
-
 try {
 
     const data = new Date('01-01-1970 12:58:12')
