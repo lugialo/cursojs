@@ -4,7 +4,6 @@ for (let i = 0; i <= 5; i++) {
     console.log(i, par);
 }
 
-
 const frutas = ['Maçã', 'Pêra', 'Uva', 'Morango']
 
 for (let i = 0; i < frutas.length; i++) {
