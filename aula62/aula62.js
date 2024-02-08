@@ -9,6 +9,6 @@
 // console.log(nomes);
 // console.log(nomes.slice(0,2));
 
-const nome = 'Gabriel Antonin Pascoali';
-const nomes = nome.split(' ');
+const nome = "Gabriel Antonin Pascoali";
+const nomes = nome.split(" ");
 console.log(nomes);
