@@ -1,77 +1,74 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 :root {
-    --primary-color: rgb(21, 47, 131);
+  --primary-color: rgb(21, 47, 131);
 }
 
-*{
-    box-sizing: border-box;
-    outline: 0;
-
+* {
+  box-sizing: border-box;
+  outline: 0;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    background: var(--primary-color);
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.3em;
-    line-height: 1.5em;
-    
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
 }
 
-h2{
-    font-size: 1.0em;
+h2 {
+  font-size: 1em;
 }
 
-p{
-    margin-block-start: 0.3em;
-    margin-block-end: 0.3em;
+p {
+  margin-block-start: 0.3em;
+  margin-block-end: 0.3em;
 }
 
 .info {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .container {
-    max-width: 640px;
-    margin: 50px auto;
-    background: #fff;
-    padding: 20px;
-    border-radius: 5px;
+  max-width: 640px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 5px;
 }
 
 .calculadora {
-    width: 400px;
+  width: 400px;
 }
 
 .display {
-    font-size: 2em;
-    width: 100%;
-    text-align: right;
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
 }
 
 .btn {
-    width: 100%;
-    height: 50px;
-    font-size: 1em;
-    border: none;
-    background: #DFDFDF;
-    cursor: pointer;
+  width: 100%;
+  height: 50px;
+  font-size: 1em;
+  border: none;
+  background: #dfdfdf;
+  cursor: pointer;
 }
 
 .btn:hover {
-    background: #9e9e9e;
+  background: #9e9e9e;
 }
 
 .btn-eq {
-    background: royalblue;
-    color: #FFF;
-
+  background: royalblue;
+  color: #fff;
 }
 
 .btn-eq:hover {
-    background: #0d47a1;
+  background: #0d47a1;
 }
 
 input::-webkit-outer-spin-button,
