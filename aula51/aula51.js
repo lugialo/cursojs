@@ -3,26 +3,26 @@
 // termina a função
 
 function soma(a, b) {
-    return a + b;
+  return a + b;
 }
 
 function criaPessoa(nome, sobrenome) {
-    return { nome, sobrenome };
+  return { nome, sobrenome };
 }
 
-const p1 = criaPessoa('Gabriel', 'Antonin');
-const p2 =  {
-    nome: 'João',
-    sobrenome: 'Oliveira'
+const p1 = criaPessoa("Gabriel", "Antonin");
+const p2 = {
+  nome: "João",
+  sobrenome: "Oliveira",
 };
 
 console.log(typeof p1);
 console.log(typeof p2);
 
 function criaMultiplicador(multiplicador) {
-    return function(n) {
-        return n * multiplicador;
-    }
+  return function (n) {
+    return n * multiplicador;
+  };
 }
 
 const duplica = criaMultiplicador(2);
