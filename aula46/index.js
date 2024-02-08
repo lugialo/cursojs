@@ -6,8 +6,6 @@ function mostraHora() {
     });
 }
 
-
-
 const timer = setInterval(function () {
     console.log(mostraHora());
 }, 1000);
