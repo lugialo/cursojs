@@ -1,11 +1,11 @@
-const nome = 'Luiz'; // Escopo léxico
+const nome = "Luiz"; // Escopo léxico
 
 function falaNome() {
-    const nome = 'João';
-    console.log(nome);
+  const nome = "João";
+  console.log(nome);
 }
 
 function usaFalaNome() {
-    falaNome();
+  falaNome();
 }
 usaFalaNome();
